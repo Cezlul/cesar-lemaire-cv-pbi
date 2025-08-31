@@ -26,7 +26,7 @@ Ce CV a été entièrement conçu avec **Microsoft Power BI** pour démontrer me
 ###  Sections du CV :
 1. **En-tête personnalisé** - Informations de contact et objectif professionnel
 2. **Compétences techniques** - Graphique en barres horizontales par catégorie
-3. **Parcours professionnel** - Timeline détaillée des expériences
+3. **Parcours professionnel** - Timeline des expériences
 4. **Formations académiques** - Tableau des diplômes et certifications
 5. **Centres d'intérêt** - Répartition graphique des passions
 

@@ -34,7 +34,7 @@ Ce CV a été entièrement conçu avec **Microsoft Power BI** pour démontrer me
 
 
 
-## 📧 Contact & Collaboration
+## 📧 Contact 
 
 **César Lemaire**  
 📧 [cesar.lemaire22@gmail.com](mailto:cesar.lemaire22@gmail.com)  
